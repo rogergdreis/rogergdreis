@@ -1,16 +1,31 @@
-## Hi there 👋
+# Roger Gomes Dos Reis
+**Seja bem-vindo ao meu perfil!**
+> "O verdadeiro deleite não está no conhecimento, mas na descoberta." — Isaac Asimov
+Explorando dados, descobrindo histórias e traduzindo números em decisões.
 
-<!--
-**rogergdreis/rogergdreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência de Dados na FATEC
+💡 Apaixonado por tecnologia, aprendizado contínuo e soluções orientadas por dados
+📊 Explorando o universo da análise de dados, estatística, programação e machine learning
+🛠️ Em constante evolução, com interesse em transformar dados em decisões e conhecimento
+Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-gdreis/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roger.gdreis@gmail.com)
+---
+## 🧠 Linguagens e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-ai-artificial-intelligence-flaticons-lineal-color-flat-icons.png" alt="LLMs / IA" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/data-configuration.png" alt="Data Science" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/brain.png" alt="Machine Learning" width="40" height="40"/>
+</p>
+
+
+---
+## 📊 Estatísticas
+| ![Roger GitHub Stats](https://github-readme-stats.vercel.app/api?username=rogergdreis&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rogergdreis&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| --- | --- |
