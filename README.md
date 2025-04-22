@@ -17,11 +17,10 @@ Explorando dados, descobrindo histórias e traduzindo números em decisões.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL / MySQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/data-configuration.png" alt="Data Science" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/brain.png" alt="Machine Learning" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL / MySQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/chatbot.png" alt="Chatbots" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/brain.png" alt="Machine Learning" width="40" height="40"/> 
 </p>
 
 ---
