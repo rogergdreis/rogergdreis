@@ -1,6 +1,6 @@
 # Roger Gomes Dos Reis
 **Seja bem-vindo ao meu perfil!**
-> "O verdadeiro deleite não está no conhecimento, mas na descoberta." — Isaac Asimov
+> "O verdadeiro deleite não está no conhecimento, mas na descoberta." — Isaac Asimov<br>
 Explorando dados, descobrindo histórias e traduzindo números em decisões.
 
 🎓 Estudante de Ciência de Dados na FATEC<br>
